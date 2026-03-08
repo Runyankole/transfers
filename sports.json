@@ -129,13 +129,13 @@
       "date": "2023-08-31 18:00:00"
     },
     {
-      "id": "17",
-      "title": "Harry Kane signs for Bayern Munich",
-      "brief_details": "Bayern Munich completed the signing of England captain Harry Kane from Tottenham Hotspur in a deal worth over €100 million.",
-      "link": "https://www.bbc.com/sport/football/66484571",
-      "image_name": "kane_bayern.webp",
-      "date": "2023-08-12 09:00:00"
-    },
+  "id": "17",
+  "title": "Luis Díaz joins Bayern Munich from Liverpool",
+  "brief_details": "Bayern Munich completed the signing of Colombian winger Luis Díaz from Liverpool as part of their squad rebuild. The pacey attacker joined the Bundesliga champions after three seasons at Anfield where he won the FA Cup and Carabao Cup.",
+  "link": "https://www.bbc.com/sport/football",
+  "image_name": "luis_diaz_bayern.webp",
+  "date": "2025-07-15 10:00:00"
+},
     {
       "id": "18",
       "title": "Young Africans sign Prince Dube",
