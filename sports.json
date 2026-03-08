@@ -1,1 +1,86 @@
 
+{
+  "transfers": [
+    {
+      "id": "1",
+      "title": "Antoine Semenyo joins Manchester City",
+      "brief_details": "Manchester City signed Antoine Semenyo from Bournemouth for a reported £64m. The Ghana international signed a five-and-a-half-year contract with the Premier League champions.",
+      "link": "https://www.espn.com/soccer/story/_/id/antoinesemenyo-manchester-city-transfer",
+      "image_name": "semenyo.webp",
+      "date": "2026-01-09 11:00:00"
+    },
+    {
+      "id": "2",
+      "title": "Oscar Bobb completes move to Fulham",
+      "brief_details": "Fulham completed the signing of Norwegian winger Oscar Bobb from Manchester City for £27 million to strengthen their attack.",
+      "link": "https://www.skysports.com/football/news/11681/fulham-sign-oscar-bobb",
+      "image_name": "oscar_bobb.webp",
+      "date": "2026-01-30 16:00:00"
+    },
+    {
+      "id": "3",
+      "title": "Jorgen Strand Larsen joins Crystal Palace",
+      "brief_details": "Crystal Palace signed Norwegian striker Jorgen Strand Larsen from Wolves in a deal worth around £48 million during the January transfer window.",
+      "link": "https://www.skysports.com/football/news/11685/crystal-palace-sign-strand-larsen",
+      "image_name": "strand_larsen.webp",
+      "date": "2026-02-02 19:00:00"
+    },
+    {
+      "id": "4",
+      "title": "Luca Netz signs for Nottingham Forest",
+      "brief_details": "Nottingham Forest secured German left-back Luca Netz from Borussia Monchengladbach for around £2 million on deadline day.",
+      "link": "https://www.skysports.com/football/news/11095/nottingham-forest-sign-luca-netz",
+      "image_name": "luca_netz.webp",
+      "date": "2026-02-02 18:30:00"
+    },
+    {
+      "id": "5",
+      "title": "Ademola Lookman joins Atletico Madrid",
+      "brief_details": "Atletico Madrid signed Nigerian winger Ademola Lookman from Atalanta for approximately £30.2 million to strengthen their attack.",
+      "link": "https://sportsblog247.com/2026/02/top-10-biggest-january-2026-transfers-across-europes-elite-leagues/",
+      "image_name": "lookman.webp",
+      "date": "2026-01-20 14:00:00"
+    },
+    {
+      "id": "6",
+      "title": "Lorenzo Lucca signs for Napoli",
+      "brief_details": "Napoli completed the signing of Italian striker Lorenzo Lucca from Pisa for around £30 million during the winter transfer window.",
+      "link": "https://sportsblog247.com/2026/02/top-10-biggest-january-2026-transfers-across-europes-elite-leagues/",
+      "image_name": "lucca.webp",
+      "date": "2026-01-18 12:30:00"
+    },
+    {
+      "id": "7",
+      "title": "Iqraam Rayners joins Mamelodi Sundowns",
+      "brief_details": "Mamelodi Sundowns completed the signing of South African striker Iqraam Rayners from Stellenbosch FC to strengthen their forward line.",
+      "link": "https://www.goal.com/en-za/news/sundowns-sign-rayners-from-stellenbosch",
+      "image_name": "rayners.webp",
+      "date": "2025-07-23 10:00:00"
+    },
+    {
+      "id": "8",
+      "title": "Ryan Ogam joins Tusker FC",
+      "brief_details": "Tusker FC confirmed the signing of striker Ryan Ogam from Rainbow FC to reinforce their attacking options in the Kenyan Premier League.",
+      "link": "https://www.pulsesports.co.ke/football/story/tusker-sign-ryan-ogam",
+      "image_name": "ryan_ogam.webp",
+      "date": "2025-08-10 13:20:00"
+    },
+    {
+      "id": "9",
+      "title": "Junior Lokosa signs for Enyimba",
+      "brief_details": "Nigerian striker Junior Lokosa returned to Enyimba FC after previous spells abroad, boosting the club’s attacking lineup.",
+      "link": "https://www.completesports.com/enyimba-sign-junior-lokosa",
+      "image_name": "lokosa.webp",
+      "date": "2025-09-05 15:10:00"
+    },
+    {
+      "id": "10",
+      "title": "Denis Omedi joins APR FC from Kitara",
+      "brief_details": "Ugandan forward Denis Omedi moved from Kitara FC to Rwandan giants APR FC after an impressive season in the Uganda Premier League.",
+      "link": "https://kawowo.com/2024/07/05/denis-omedi-apr-transfer",
+      "image_name": "omedi.webp",
+      "date": "2024-07-05 11:45:00"
+    }
+  ],
+  "last_updated": "2026-02-02 19:00:00"
+}
