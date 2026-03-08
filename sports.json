@@ -1,4 +1,3 @@
-
 {
   "transfers": [
     {
@@ -80,6 +79,70 @@
       "link": "https://kawowo.com/2024/07/05/denis-omedi-apr-transfer",
       "image_name": "omedi.webp",
       "date": "2024-07-05 11:45:00"
+    },
+    {
+      "id": "11",
+      "title": "Nicolás De La Cruz joins Flamengo",
+      "brief_details": "Brazilian giants Flamengo completed the signing of Uruguayan midfielder Nicolás De La Cruz from River Plate in a deal worth around €16 million.",
+      "link": "https://www.reuters.com/sports/soccer/flamengo-sign-nicolas-de-la-cruz-river-plate-2024-01-02/",
+      "image_name": "de_la_cruz.webp",
+      "date": "2024-01-02 14:00:00"
+    },
+    {
+      "id": "12",
+      "title": "Abubeker Nasir signs for Ethiopian Coffee",
+      "brief_details": "Ethiopian Coffee confirmed the signing of striker Abubeker Nasir after returning from Mamelodi Sundowns.",
+      "link": "https://www.thereporterethiopia.com/football/ethiopian-coffee-sign-abubeker-nasir",
+      "image_name": "abubeker_nasir.webp",
+      "date": "2024-09-18 11:20:00"
+    },
+    {
+      "id": "13",
+      "title": "Imam Ashour joins Al Ahly",
+      "brief_details": "Egyptian giants Al Ahly signed midfielder Imam Ashour from Danish side FC Midtjylland.",
+      "link": "https://www.kingfut.com/2023/07/18/al-ahly-sign-imam-ashour/",
+      "image_name": "imam_ashour.webp",
+      "date": "2023-07-18 16:00:00"
+    },
+    {
+      "id": "14",
+      "title": "Ayoub El Kaabi joins Wydad Casablanca",
+      "brief_details": "Moroccan striker Ayoub El Kaabi joined Wydad Athletic Club to reinforce their attacking line.",
+      "link": "https://www.moroccoworldnews.com/2023/08/wydad-sign-ayoub-el-kaabi",
+      "image_name": "el_kaabi.webp",
+      "date": "2023-08-05 12:10:00"
+    },
+    {
+      "id": "15",
+      "title": "Allan Okello joins Vipers SC",
+      "brief_details": "Uganda international midfielder Allan Okello signed for Vipers SC after leaving Paradou AC.",
+      "link": "https://kawowo.com/2024/08/01/allan-okello-joins-vipers-sc/",
+      "image_name": "allan_okello.webp",
+      "date": "2024-08-01 10:30:00"
+    },
+    {
+      "id": "16",
+      "title": "Romelu Lukaku joins AS Roma",
+      "brief_details": "AS Roma secured the signing of Belgian striker Romelu Lukaku from Chelsea on loan.",
+      "link": "https://www.bbc.com/sport/football/66648178",
+      "image_name": "lukaku_roma.webp",
+      "date": "2023-08-31 18:00:00"
+    },
+    {
+      "id": "17",
+      "title": "Harry Kane signs for Bayern Munich",
+      "brief_details": "Bayern Munich completed the signing of England captain Harry Kane from Tottenham Hotspur in a deal worth over €100 million.",
+      "link": "https://www.bbc.com/sport/football/66484571",
+      "image_name": "kane_bayern.webp",
+      "date": "2023-08-12 09:00:00"
+    },
+    {
+      "id": "18",
+      "title": "Young Africans sign Prince Dube",
+      "brief_details": "Tanzanian champions Young Africans SC completed the signing of Zimbabwean striker Prince Dube from Azam FC.",
+      "link": "https://www.thecitizen.co.tz/tanzania/sports/yanga-sign-prince-dube-from-azam-4323576",
+      "image_name": "prince_dube.webp",
+      "date": "2024-07-21 13:30:00"
     }
   ],
   "last_updated": "2026-02-02 19:00:00"
